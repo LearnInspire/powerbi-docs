@@ -73,7 +73,7 @@ Your Product Manager wants you to figure out which factors lead customers to lea
 
 1. Leave the **Expand by** field empty. This field is only used when analyzing a measure or summarized field.
 
-1. To focus on the negative ratings, select **Low** in the **What influences Rating to be** drop-down box.  
+1. To focus on the negative ratings, select **Low** in the **What influences Rating to be** drop-down box given herewith.  
 
    :::image type="content" source="media/power-bi-visualization-influencers/power-bi-key-influencers.png" alt-text="Select Low from drop-down box.":::
 
